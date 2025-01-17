@@ -1,2 +1,4 @@
 ahoj
 toto je první verze sablony
+
+pridavam do sablony
